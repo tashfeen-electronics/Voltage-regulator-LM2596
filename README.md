@@ -124,11 +124,9 @@ IN+1 (+12V) → LM2596S-ADJ → Inductor L1 → OUT+1
 
 | Parameter | Specification |
 |---|---|
-| **Module Length** | *(to be filled)* |
-| **Module Width** | *(to be filled)* |
-| **Module Height** | *(to be filled)* |
-| **Mounting Hole Diameter** | *(to be filled)* |
-| **PCB Thickness** | *(to be filled)* |
+| **Module Length** | *(44.102mm)* |
+| **Module Width** | *(21.300mm)* |
+| **Mounting Hole Diameter** | *(1.100mm)* |
 
 ---
 
